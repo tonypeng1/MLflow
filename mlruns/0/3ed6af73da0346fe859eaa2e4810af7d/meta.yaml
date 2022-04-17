@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/tony3/Library/CloudStorage/OneDrive-Personal/OneDrive%20Documents/MLflow/mlruns/0/3ed6af73da0346fe859eaa2e4810af7d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 3ed6af73da0346fe859eaa2e4810af7d
+run_uuid: 3ed6af73da0346fe859eaa2e4810af7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1650159187201
+status: 1
+tags: []
+user_id: tony3
